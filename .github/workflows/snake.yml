@@ -1,5 +1,6 @@
 name: Generate Snake
 # very cool script
+
 on:
   schedule:
     - cron: "0 0 * * *"
