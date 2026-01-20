@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JAVA
 - 💬 Ask me about AMETHYST
 - 😄 Pronouns: NECSU
-- ⚡ Fun fact: I'M GAY
+- ⚡ Fun fact: I LOVE MINECRAFT
 
 ![Snake animation](https://github.com/MATste08/MATste08/blob/output/github-contribution-grid-snake-dark.svg)
 
